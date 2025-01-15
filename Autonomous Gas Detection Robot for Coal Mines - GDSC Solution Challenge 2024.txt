@@ -33,10 +33,15 @@ void setup() {
   M3.setSpeed(Speed);
   M4.setSpeed(Speed);
 }
-void loop() {
+void loop()
+{
+
   //Obstacle();
+
   //Bluetoothcontrol();
+
   //voicecontrol();
+
 }
 void Bluetoothcontrol() {
   if (Serial.available() > 0) {
