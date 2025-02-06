@@ -43,11 +43,12 @@ void setup() {
 void loop()
 {
 
-  //Obstacle();
+                       //Obstacle();
+                     
+                       //Bluetoothcontrol();
+                     
+                       //voicecontrol();
 
-  //Bluetoothcontrol();
-
-  //voicecontrol();
 
 }
 void Bluetoothcontrol() {
