@@ -2,7 +2,6 @@
 
 obstacle avoiding, Bluetooth control, voice control robot car.
    https://srituhobby.com
-
 */
 
 
@@ -183,6 +182,7 @@ int leftsee() {
   Right = ultrasonic();
   return Right;
 }
+
 
 
 
