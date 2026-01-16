@@ -180,37 +180,3 @@ int leftsee() {
   Right = ultrasonic();
   return Right;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
